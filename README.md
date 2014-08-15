@@ -3,6 +3,12 @@ IntroducingFunctions
 
 The fourth project for iOS pre-course using functions
 
+### Resources:
+- What is a Class and what is an Instance? Read [this](http://codewithchris.com/how-to-make-iphone-apps-object-oriented-programming-and-classes/). [Please](http://codewithchris.com/how-to-make-iphone-apps-object-oriented-programming-and-classes/). Read [it](http://codewithchris.com/how-to-make-iphone-apps-object-oriented-programming-and-classes/). I know it talks a lot about Objective-C. But mostly it will teach you what you need to know about Object-Oriented Programming.
+- Alright, [Methods](https://devmounta.in/files/iOS/ios-precourse__03Methods.pdf) file on DevMounta.in is a quick read, make sure you understand it all.
+- For Objective-C read the RyPress section on [Functions](http://rypress.com/tutorials/objective-c/functions.html)
+- For Swift [iOS Creator](http://www.ioscreator.com/tutorials/introduction-to-swift-functions) has a very simple intro to Functions and Section 2 of [Part 2] of the Tuts+ tutorial should be very helpful.
+
 ### Step 1: Get the project started on your computer and on GitHub
 - Either create a project locally and push to GitHub
 - Or fork this project and clone it to your computer
